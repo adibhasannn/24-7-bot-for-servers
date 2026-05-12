@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "script-sh5g.aternos.me",
-    "port": 39627,
+    "ip": "0.tcp.in.ngrok.io:27546",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
